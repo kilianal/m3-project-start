@@ -11,4 +11,4 @@ npm install
 
 in the subdirectory "client":
 npm install
-addes info
+addes info 
